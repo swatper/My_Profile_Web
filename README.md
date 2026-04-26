@@ -25,7 +25,7 @@
 
 ## 4. 개발 환경
 - **IDE**: VSCode (Remote-SSH), VI Editor
-- **Terminal**: PuTTY (SSH 원격 접속 및 서버 제어용)
+- **Terminal**: PuTTY (SSH 원격 접속)
 - **Server**: Naver Cloud Platform (Micro Instance)
 - **WAS**: Apache Tomcat 9.0
 - **DB**: MySQL
